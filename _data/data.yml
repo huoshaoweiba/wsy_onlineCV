@@ -9,22 +9,22 @@ sidebar:
     education: False  # 用于"教育背景"栏目所处位置的设置False表示在主栏，True表示在侧边栏
 
     # 基本信息
-    name: 庞宇轩  # 你的姓名
-    tagline: 学生会主席团成员 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
+    name: 王思雅  # 你的姓名
+    tagline: 无为名尸，无为谋府 # 姓名下方的小字，一句话介绍自己，可以是座右铭/求职目标（算法工程师）/
     avatar: avatar.jpeg  # 将你头像图片放在assets/images中，然后将文件名填在这里，注意要带后缀，如.jpeg/.png等
 
     # 以下内容如果自己没有可以在该行的最前面添加"#"，将其注释掉
-    email: cnicpyx@gmail.com
-    phone: 18554851930
+    email: 202211023028@mails.cuc.edu.cn
+    phone: 18150226393
     website: pyxblog.cn  # 个人主页链接，前面不要添加http://
-    github: cnicpyx  # GitHub用户名
+    github: huoshaoweiba  # GitHub用户名
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    pdf:   # 如果有pdf版的简历，可以在这里放简历的下载链接，或者直接放 {https://你的简历页面}/print
 
     interests:
-      title: 竞选类别
+      title: 个人简历
       info:
-        - item: 优秀学生干部
+        - item: 优秀团干部
           link:
         # - item: 编程
         #   link:
@@ -45,18 +45,18 @@ sidebar:
 # education:
 #     title: 教育经历
 #     info:
-#       - degree: 计算机技术
-#         university: 中国科学院大学
-#         time: 2023 - 2026
+#       - degree: 计算机科学与技术
+#         university: 厦门大学
+#         time: 2026 - 2029
 #         details: |
 #           在这里展开你的教育经历，可以包括你的成绩情况/排名情况/专业课程等，可以使用
 #           `{}{}- 分条`来实现分条叙述，样式如下：
 #             - 身体倍棒
 #             - 吃嘛嘛香
 
-#       - degree: 广播电视工程
+#       - degree: 数字媒体技术
 #         university: 中国传媒大学
-#         time: 2019 - 2023
+#         time: 2022 - 2025
 #         details: |
 #           在这里展开你的教育经历，可以包括你的成绩情况/排名情况/专业课程等，可以使用
 #           `{}{}- 分条`来实现分条叙述，样式如下：
